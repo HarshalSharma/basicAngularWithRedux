@@ -1,4 +1,6 @@
-# ReduxApp1
+# Angular With Basic Redux Setup
+
+This is a basic project setup for starting a angular app development with redux.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
